@@ -137,7 +137,7 @@ protobuf==3.7.1
 protobuf3-to-dict==0.1.5
 psutil==5.4.0
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 pyasn1==0.4.5
 pycodestyle==2.5.0
 pycosat==0.6.2
