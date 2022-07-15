@@ -41,7 +41,7 @@ dask==0.15.3
 dataclasses==0.6
 datashape==0.5.4
 decorator==4.1.2
-distributed==1.19.1
+distributed==2021.10.0
 docker==3.7.2
 docker-compose==1.24.0
 docker-pycreds==0.4.0
